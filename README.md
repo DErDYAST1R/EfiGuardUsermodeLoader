@@ -3,5 +3,3 @@ This is a UserMode BootLoader for EfiGuard and other EFI based bootkits. It uses
 
 # EfiGuard
 https://github.com/Mattiwatti/EfiGuard
-
-Discord Username; bloodieys
